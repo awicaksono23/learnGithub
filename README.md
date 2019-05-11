@@ -1,2 +1,2 @@
-#myApp
+#learnGithub
 This is my app 
